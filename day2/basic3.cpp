@@ -6,7 +6,7 @@ int main(){
     cout<< "enter num1";
     cin >> a;
     cout<< "enter num2";
-    cin >> b;
+     cin >> b;
 
     int sum;
     sum=a+b;

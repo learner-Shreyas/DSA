@@ -12,7 +12,7 @@ int main(){
     cout<<"subtraction ="<< (a-b)<<endl;
     cout<<"modulo ="<< (a%b)<<endl;
 
-    cout<<5/double(2)<<endl;
+     cout<<5/double(2)<<endl;
 
     cout<<"relational operations\n";
     cout <<(3<5)<<endl;

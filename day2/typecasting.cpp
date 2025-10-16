@@ -10,6 +10,6 @@ int main(){
     double price=100.00;
     int a=(int)price;
     cout<< a<< endl;
-    return 0;
+     return 0;
 
 }

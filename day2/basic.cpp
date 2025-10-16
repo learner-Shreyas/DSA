@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int age=25;
+     int age=25;
     char grade='a';
     float pi=3.142f;
     bool isSafe=false;
